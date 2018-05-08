@@ -1,0 +1,40 @@
+.texto{
+	margin-right:70%;
+	font-size: 150%;
+}
+
+.seletor-materiais .nao-selecionado {
+	display: none;
+}
+
+.form-calcular-precos-materiais {
+	text-align: left;
+}
+
+.intro {
+	background-image:radial-gradient(circle at 50% 50%,rgba(0,0,0,0.46),rgba(0,0,0,0.88)),url('../img/img2.jpg');
+}
+
+.receptor-metragem{
+	margin-top: 5%;
+}
+
+.btn-default{
+	border-color: black;
+	color: black;
+	margin-top: 5%;
+	text-shadow: 0em 0em #333;
+}
+
+.text-center {
+    text-align: left;
+}
+
+.selecionar{
+
+}
+
+.informar-area{
+	margin-top: 10%;
+	margin-left: 50%;
+}

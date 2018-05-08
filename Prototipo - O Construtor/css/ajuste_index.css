@@ -1,0 +1,15 @@
+.intro {
+	background-image:radial-gradient(circle at 50% 50%,rgba(0,0,0,0.46),rgba(0,0,0,0.88)),url('../img/img1.jpg');
+}
+
+.texto-login{
+	text-shadow: 0em 0em #333;
+}
+
+.btn-default{
+	border-color: black;
+	color: black;
+	margin-top: 5%;
+	text-shadow: 0em 0em #333;
+	
+}
